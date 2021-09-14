@@ -1,0 +1,7 @@
+requests
+sys
+time
+argparse
+colorama
+termcolor
+bs4
